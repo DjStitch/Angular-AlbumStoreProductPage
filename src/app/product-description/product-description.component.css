@@ -1,10 +1,9 @@
-p{
-font-family: Helvetica,Arial,  sans-serif;
-font-size: 16px;
-font-weight: normal
-
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
 }
 
-img{
-    width: 100%
+img {
+  width: 100%;
 }
