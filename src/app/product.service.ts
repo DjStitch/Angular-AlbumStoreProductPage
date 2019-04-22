@@ -21,5 +21,5 @@ export class ProductService {
 //     return this._http
 //       .get(this._productsUrl)
 //       .map(response => <Product[]>response.json());
-  }
+//  }
 }
